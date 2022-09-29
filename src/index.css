@@ -5,9 +5,69 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.logologin{
+  padding-left: 35%;
+  padding-bottom: 5%;
+  
+}
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color:black;
+}
+
+.Auth-form {
+  width: 420px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+.Content{
+  display: flex;
+}
+.Header{
+  padding-top: 1%;
+  padding-left: 1%;
+  width: 100vw;
+}
+.Sidebar {
+  height: 100vh;
+}
+.device_table {
+  height: 75vh;
+  border-style: solid;
+  border-width: 1px 1px;
+}
+.statistic_card{
+  display: flex;
+  margin-top:15px;
+}
+.Card_weeklyprocess{
+  width: 40rem;
+  margin-left:5rem;
 }
