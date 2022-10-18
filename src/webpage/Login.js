@@ -1,15 +1,23 @@
 import axios from 'axios';
 import {useState} from 'react';
+
+
 export default function Login() {
     let [Username,setUsername] = useState("");
     let [Password,setPassword] = useState("");
+    
+   
     function handleChange(value,set){set(value);}
     function userlogin(){
         axios.post('http://localhost:4000/login',{
             username:Username,password:Password
-          }).then((res)=>{
-            console.log(res);
-            if(res.data==="success"){window.location.replace("http://localhost:3000/dashboard");}
+          })
+          .then((res)=>{
+            if(res.data.status==="success"){
+              localStorage.setItem('name',res.data.name);
+              localStorage.setItem('token',res.data.accesstoken);
+              window.location.replace("http://localhost:3000/dashboard");
+            }
             else{window.alert("login fail");}
             
           })

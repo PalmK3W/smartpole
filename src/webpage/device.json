@@ -1,0 +1,196 @@
+[
+    {
+    "name":"Esso rama4 1-1",
+    "status":"online",
+    "humidity":54,
+    "temp":32
+},
+{
+    "name":"Esso rama4 1-2",
+    "status":"online",
+    "humidity":54.2,
+    "temp":31.5
+},
+{
+    "name":"Esso rama4 2-1",
+    "status":"online",
+    "humidity":55,
+    "temp":39
+},
+{
+    "name":"Esso rama4 2-2",
+    "status":"online",
+    "humidity":54.3,
+    "temp":40
+},
+{
+    "name":"Esso rama4 3-1",
+    "status":"online",
+    "humidity":54,
+    "temp":32
+},
+{
+    "name":"Esso rama4 3-2",
+    "status":"online",
+    "humidity":54.2,
+    "temp":31.5
+},
+{
+    "name":"Esso rama4 4-1",
+    "status":"online",
+    "humidity":54,
+    "temp":32
+},
+{
+    "name":"Esso rama4 4-2",
+    "status":"online",
+    "humidity":54.2,
+    "temp":31.5
+},
+{
+    "name":"smartpole 1",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 2",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 3",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 4",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 5",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 6",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 7",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 8",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 9",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 10",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 11",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 12",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 13",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 14",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 15",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 16",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 17",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 18",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 19",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 20",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 21",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 22",
+    "status":"online",
+    "humidity":54.6,
+    "temp":41
+},
+{
+    "name":"smartpole 23",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+},
+{
+    "name":"smartpole 24",
+    "status":"online",
+    "humidity":55,
+    "temp":44
+}
+
+
+]

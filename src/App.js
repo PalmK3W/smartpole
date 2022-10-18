@@ -16,6 +16,7 @@ function App() {
       <Routes>
         <Route path="/dashboard" element={<Dashboard/>}/>
         <Route path="/Device/" element={<Device/>}/>
+        <Route path="/Device/:page" element={<Device/>} />
         <Route path="/Statistics/" element={<Statistics/>}/>
         <Route path="/Login" element={<Login/>}/>
         <Route path="/" element={<Navigate replace to="/Login" />} />
